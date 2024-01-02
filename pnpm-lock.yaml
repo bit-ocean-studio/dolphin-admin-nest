@@ -185,8 +185,8 @@ devDependencies:
     specifier: ^6.4.14
     version: 6.4.14
   '@types/passport-jwt':
-    specifier: ^3.0.13
-    version: 3.0.13
+    specifier: ^4.0.0
+    version: 4.0.0
   '@types/supertest':
     specifier: ^6.0.2
     version: 6.0.2
@@ -2978,10 +2978,9 @@ packages:
     resolution: {integrity: sha512-ehPtgRgaULsFG8x0NeYJvmyH1hmlfsNLujHe9dQEia/7MAJYdzMSi19JtchUHjmBA6XC/75dK55mzZH+RyieSg==}
     dev: true
 
-  /@types/passport-jwt@3.0.13:
-    resolution: {integrity: sha512-fjHaC6Bv8EpMMqzTnHP32SXlZGaNfBPC/Po5dmRGYi2Ky7ljXPbGnOy+SxZqa6iZvFgVhoJ1915Re3m93zmcfA==}
+  /@types/passport-jwt@4.0.0:
+    resolution: {integrity: sha512-m32144UaQENieShQDWVQ8w+CVAzCV/pDahICUlQvmqLOePGglQaMRQ28I7fKnRMFLNwVP4eWssOtcQ0kLe1vww==}
     dependencies:
-      '@types/express': 4.17.21
       '@types/jsonwebtoken': 9.0.5
       '@types/passport-strategy': 0.2.38
     dev: true
